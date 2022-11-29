@@ -1,0 +1,29 @@
+body{
+    font-family:serif;
+    color:red;
+    font-weight: 900;
+    font-size: large;
+    text-align: center;
+}
+#inp{
+    width: 300px;
+    border: 3px solid red;
+    border-radius: 13px;
+    height: 20px;
+    background-color:white;
+    outline: none;
+}
+button{
+    border-radius: 3px;
+    background-color:gold;
+    color: white;
+    border: transparent;
+    cursor: pointer;
+}
+button:hover{
+    border-radius: 3px;
+    background-color:white;
+    color: gold;
+    border: transparent;
+    cursor: pointer;
+}
